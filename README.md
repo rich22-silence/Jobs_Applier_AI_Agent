@@ -77,9 +77,9 @@ In the digital age, the job search landscape has undergone a dramatic transforma
 3. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/code-infected/Auto_Jobs_Applier_AI_Agent.git
+   git clone https://github.com/feder-cr/Jobs_Applier_AI_Agent.git
    
-   cd Auto_Jobs_Applier_AI_Agent
+   cd Jobs_Applier_AI_Agent
    ```
 
 4. **Activate virtual environment:**
@@ -533,8 +533,6 @@ For further assistance, please create an issue on the [GitHub repository](https:
   - Follow the instructions below to ensure proper configuration of **AIHawk** with **Ollama** and **Gemini**.
   - Written by Rushi, [Linkedin](https://www.linkedin.com/in/rushichaganti/), support him by following.
   - Step 1: Get your free API key at https://aistudio.google.com/app/apikey.
-  - Step 2: Verify Ollama is Running 
-    - Replace llm_api_key with your newly created API key on the file secrets.yaml located at Auto_Jobs_Applier_AIHawk\data_folder\secrets.yaml
   - Step 2: Verify Ollama is Running 
     - Replace llm_api_key with your newly created API key on the file secrets.yaml located at Auto_Jobs_Applier_AIHawk\data_folder\secrets.yaml
   - Step 3: Edit Configuration in VS Code
